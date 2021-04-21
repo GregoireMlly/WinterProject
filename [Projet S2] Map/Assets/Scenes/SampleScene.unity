@@ -5052,7 +5052,6 @@ GameObject:
   - component: {fileID: 327691471}
   - component: {fileID: 327691470}
   - component: {fileID: 327691469}
-  - component: {fileID: 327691472}
   m_Layer: 5
   m_Name: Roll
   m_TagString: GameController
@@ -5122,7 +5121,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 327691470}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 924284387}
+        m_MethodName: setImageToNext
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &327691470
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5160,21 +5170,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 327691467}
   m_CullTransparentMesh: 0
---- !u!114 &327691472
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 327691467}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b8618c7b5959554b8f5eb1c650d02b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ButtonClick:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!1001 &329454307
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17381,6 +17376,8 @@ GameObject:
   - component: {fileID: 924284385}
   - component: {fileID: 924284384}
   - component: {fileID: 924284383}
+  - component: {fileID: 924284388}
+  - component: {fileID: 924284387}
   m_Layer: 0
   m_Name: Plane
   m_TagString: Untagged
@@ -17397,7 +17394,7 @@ MeshCollider:
   m_GameObject: {fileID: 924284382}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
@@ -17463,6 +17460,38 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 71.4, y: 31.94, z: 0}
+--- !u!114 &924284387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 924284382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 104d01ddb105a604eba3311bda603118, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nMaterial: {fileID: 2100000, guid: 4115e7901cd73c84da91152b62bd6bc7, type: 2}
+--- !u!95 &924284388
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 924284382}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2f537948c087461428fffad4c0104c0f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &925141400
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32833,7 +32862,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ec0e1be7f681b86469af65f38b07a082,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 61.43
+      value: 62.44
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ec0e1be7f681b86469af65f38b07a082,
         type: 3}
