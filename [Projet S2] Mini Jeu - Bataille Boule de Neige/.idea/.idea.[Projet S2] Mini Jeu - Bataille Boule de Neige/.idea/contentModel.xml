@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\teoha\[Projet S2] Mini Jeu - Bataille Boule de Neige" t="IncludeRecursive">
+    <e p="C:\Users\teoha\[Projet S2] Map via git\WinterProject\[Projet S2] Mini Jeu - Bataille Boule de Neige" t="IncludeRecursive">
       <e p="[Projet S2] Mini Jeu - Bataille Boule de Neige.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -470,6 +470,6 @@
       <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
     <e p="C:\Users\teoha\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\teoha\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_[Projet S2] Mini Jeu - Bataille Boule de Neige.48419288.00" t="ExcludeRecursive" />
+    <e p="C:\Users\teoha\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_[Projet S2] Mini Jeu - Bataille Boule de Neige.-1166936875.00" t="ExcludeRecursive" />
   </component>
 </project>
