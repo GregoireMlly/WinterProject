@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField]
-    private float speed = 3f;
+    private float speed = 1.5f;
 
     [SerializeField]
     private float mouseSensitivityX = 3f;
@@ -38,7 +38,7 @@ public class PlayerController : MonoBehaviour
 
         Vector3 velocity = (moveHorizontal + moveVertical) * speed;
         
-        //Jouer animation perso
+        //Jouer animation perso du Lancer de boule
         animator.SetFloat("Horizontal", xMov);
         animator.SetFloat("Vertical", zMov);
         

@@ -19,7 +19,35 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04756775-c81d-46e2-be84-edb611fd31ad" name="Default Changelist" comment="" />
+    <list default="true" id="04756775-c81d-46e2-be84-edb611fd31ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/PERSO/personnage/PlayerAnimation.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/PERSO/personnage/PlayerAnimation.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Authenticators.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Authenticators.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Cloud.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Cloud.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Components.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Components.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Examples.Cloud.GUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Examples.Cloud.GUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Examples.Cloud.Pong.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Examples.Cloud.Pong.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Examples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Examples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/SimpleWebTransport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/SimpleWebTransport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Telepathy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Telepathy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/kcp2k.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/kcp2k.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/globalgamemanagers.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/sharedassets0.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/sharedassets0.assets.resS" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/sharedassets0.assets.resS" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +72,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerShoot.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MatchSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSetup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
@@ -116,6 +144,9 @@
       <workItem from="1619179213667" duration="698000" />
       <workItem from="1619253482251" duration="4550000" />
       <workItem from="1619286156857" duration="2960000" />
+      <workItem from="1619421644557" duration="569000" />
+      <workItem from="1619427440306" duration="1682000" />
+      <workItem from="1619439061034" duration="667000" />
     </task>
     <servers />
   </component>
