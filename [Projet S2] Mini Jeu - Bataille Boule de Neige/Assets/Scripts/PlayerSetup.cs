@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using Mirror;
 
+[RequireComponent(typeof(Player))]
+[RequireComponent(typeof(PlayerController))]
 public class PlayerSetup : NetworkBehaviour
 {
     [SerializeField]
@@ -28,9 +30,11 @@ public class PlayerSetup : NetworkBehaviour
             {
                 sceneCamera.gameObject.SetActive(false);
             }
+            
+            
+            GetComponent<Player>().Setup();
         }
         
-        GetComponent<Player>().Setup();
         
         // Création du UI du joueur local
         playerUIInstance = Instantiate(playerUIPrefab);

@@ -40,7 +40,9 @@ public class PlayerController : MonoBehaviour
         
         //Jouer animation perso du Lancer de boule
         animator.SetFloat("Horizontal", xMov);
-        animator.SetFloat("Vertical", zMov);
+        animator.SetFloat("Vertical", zMov); 
+        
+        /*
         
         if (Input.GetButtonDown("Fire1"))
         {
@@ -51,7 +53,7 @@ public class PlayerController : MonoBehaviour
         {
             animator.SetBool("Lancer", false);
         }
-
+        */
         motor.Move(velocity);
         
         // On calcule la rotation du joueur en un Vector3

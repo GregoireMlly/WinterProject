@@ -5,7 +5,13 @@ using Mirror.Examples.Additive;
 
 public class PlayerShoot : NetworkBehaviour //MonoBehaviour
 {
-    public PlayerWeapon weapon;
+    [SerializeField]
+    private PlayerWeapon weapon;
+
+    [SerializeField] 
+    private GameObject weaponGFX;
+
+    [SerializeField] private string weapongLayerName = "Weapon";
     
     [SerializeField] 
     private Camera cam;
@@ -19,6 +25,8 @@ public class PlayerShoot : NetworkBehaviour //MonoBehaviour
             Debug.LogError("Pas de caméra renseignée sur le système de tir");
             this.enabled = false;
         }
+
+        weaponGFX.layer = LayerMask.NameToLayer(weapongLayerName);
     }
 
     private void Update()

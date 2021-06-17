@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04756775-c81d-46e2-be84-edb611fd31ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../[Projet S2] Map/Assets/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../[Projet S2] Map/Assets/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Projet S2] Map/Assets/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../[Projet S2] Map/Assets/ProjectSettings/ProjectVersion.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.[Projet S2] Mini Jeu - Bataille Boule de Neige/.idea/workspace.xml" afterDir="false" />
@@ -28,6 +30,8 @@
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerSetup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerSetup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerShoot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerShoot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Authenticators.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Authenticators.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Cloud.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/Managed/Mirror.Cloud.dll" afterDir="false" />
@@ -47,6 +51,9 @@
       <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/level0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/sharedassets0.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/sharedassets0.assets.resS" beforeDir="false" afterPath="$PROJECT_DIR$/Nouveau dossier/[Projet S2] Mini Jeu - Bataille Boule de Neige_Data/sharedassets0.assets.resS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +65,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/[Projet S2] Mini Jeu - Bataille Boule de Neige/Assets/Mirror/Runtime/MessagePacking.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/[Projet S2] Mini Jeu - Bataille Boule de Neige/Assets/Mirror/Runtime/NetworkClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.0.3-preview/PostProcessing/Runtime/PostProcessManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.0.3-preview/PostProcessing/Runtime/Utils/RuntimeUtilities.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.0.3-preview/PostProcessing/Editor/Utils/PostProcessShaderIncludePath.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerShoot.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -69,12 +81,17 @@
         <option value="$PROJECT_DIR$/Assets/PlayerSetup.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerWeapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMotor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerShoot.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MatchSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSetup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/animationStateController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/48 Particle Effect Pack/Script/csDestroyEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/48 Particle Effect Pack/Script/csShowAllEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSetup.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.0.3-preview/PostProcessing/Runtime/PostProcessManager.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.0.3-preview/PostProcessing/Editor/Utils/PostProcessShaderIncludePath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
       </list>
     </option>
   </component>
@@ -147,6 +164,12 @@
       <workItem from="1619421644557" duration="569000" />
       <workItem from="1619427440306" duration="1682000" />
       <workItem from="1619439061034" duration="667000" />
+      <workItem from="1623770218213" duration="1634000" />
+      <workItem from="1623848736279" duration="8130000" />
+      <workItem from="1623927772729" duration="1986000" />
+      <workItem from="1623929832908" duration="30000" />
+      <workItem from="1623934317897" duration="885000" />
+      <workItem from="1623941347405" duration="752000" />
     </task>
     <servers />
   </component>
